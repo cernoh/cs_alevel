@@ -1,0 +1,107 @@
+{
+  "main": {
+    "id": "e8b04c3eda8a2fd5",
+    "type": "split",
+    "children": [
+      {
+        "id": "38b42b9284c5a376",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e14c800469d8f599",
+    "type": "split",
+    "children": [
+      {
+        "id": "2938730af1011f55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d60afe017ccc512e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0e149cd5a9e1028c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "nest",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f9495abbe927c84b",
+    "type": "split",
+    "children": [
+      {
+        "id": "42ee43b5c692d547",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a48541bb17acd9b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ee8724f46f7f04f3",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 281.5,
+    "collapsed": true
+  },
+  "active": "38b42b9284c5a376",
+  "lastOpenFiles": [
+    "4.1/4.1.1.1/4.1.1.1 Data types.md",
+    "4.2/4.2 fundementals of data structures.md",
+    "4.1/4.1.1.1/integer.md",
+    "4.1/4.1 fundementals of programming.md",
+    "Index.md",
+    "volitile.md",
+    "4.3/4.3 fundementals of algorithms.md",
+    "stack overflow.md",
+    "4.1/4.1.1.2/4.1.1.2 Programming concepts.md",
+    "4.1/4.1.1.10/4.1.1.10 Subroutines.md"
+  ]
+}

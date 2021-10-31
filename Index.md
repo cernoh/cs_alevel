@@ -1,0 +1,15 @@
+# index
+ 
+[[4.1 fundementals of programming]]
+[[4.2 fundementals of data structures]]
+[[ 4.3 fundementals of algorithms]]
+[[4.4 theory of computation]]
+[[4.5 fundementals of data representation]]
+[[ 4.6 fundementals of computer systems]]
+[[4.7 fundementals of computer organisation]]
+[[4.8 consequences of uses of computing]]
+[[4.9 fundementals of communication and network]]
+[[ 4.10 fundementals of databases]]
+[[4.11 big data]]
+[[4.12 fundementals of functional programming]]
+[[4.13 systematic approach to problem solving]]
