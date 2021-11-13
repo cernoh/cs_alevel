@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "4.2/4.2 fundamentals of data structures.md",
+            "file": "4.2/4.2.5.1 Trees.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4.2/4.2 fundamentals of data structures.md",
+                "file": "4.2/4.2.5.1 Trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "373050042453bdc7",
   "lastOpenFiles": [
+    "4.2/4.2.5.1 Trees.md",
+    "Images/Pasted image 20211025231106.png",
+    "Images/Pasted image 20211026001456.png",
+    "Images/Pasted image 20211113173441.png",
+    "Images/Pasted image 20211113190037.png",
+    "Images/Pasted image 20211113191034.png",
+    "Images/Pasted image 20211113191300.png",
     "4.2/4.2 fundamentals of data structures.md",
-    "4.2.1.4 Abstract data types (data structures).md",
-    "4.2/4.2.1.1 Data structures.md",
-    "4.2.1.3 Fields, records and files.md",
-    "Internet.md",
-    "4.2.1.4 Abstract data types/data structures.md",
-    "4.2/4.2.1.2 Single and multi-dimensional arrays.md",
-    "Images/Pasted image 20211113172556.png",
-    "4.2/definitions/data type.md",
-    "4.1/4.1.1.1/arrays.md"
+    "4.2/4.2.4.1 Graphs.md",
+    "4.2/definitions/Internet.md"
   ]
 }
