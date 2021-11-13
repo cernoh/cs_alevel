@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "4.2.1.1 Data structures.md",
+            "file": "data type.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4.2.1.1 Data structures.md",
+                "file": "data type.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "373050042453bdc7",
   "lastOpenFiles": [
-    "4.2.1.1 Data structures.md",
+    "data type.md",
+    "4.2/4.2.1.2 Single and multi-dimensional arrays.md",
+    "4.1/4.1.1.1/arrays.md",
     "4.2/4.2 fundamentals of data structures.md",
-    "4.2/volitile.md",
-    "templates/subjects.md",
+    "4.2/4.2.1.1 Data structures.md",
     "4.1/4.1 fundementals of programming.md",
     "4.1/4.1.1.10/4.1.1.10 Subroutines.md",
-    "templates/definition.md",
-    "stack overflow.md",
-    "Index.md",
+    "4.1/4.1.1.1/stack overflow.md",
+    "4.1/4.1.1.1/volitile.md",
     "README.md"
   ]
 }
