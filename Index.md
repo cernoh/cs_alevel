@@ -1,7 +1,7 @@
 # index
  
 [[4.1 fundementals of programming]]
-[[4.2 fundementals of data structures]]
+[[4.2 fundamentals of data structures]]
 [[ 4.3 fundementals of algorithms]]
 [[4.4 theory of computation]]
 [[4.5 fundementals of data representation]]
