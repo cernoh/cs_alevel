@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "4.2.6.1 Hash tables.md",
+            "file": "collision.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4.2.6.1 Hash tables.md",
+                "file": "collision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,9 +97,9 @@
   },
   "active": "373050042453bdc7",
   "lastOpenFiles": [
+    "collision.md",
     "4.2.6.1 Hash tables.md",
     "rehashing.md",
-    "collision.md",
     "4.2/4.2.5.1 Trees.md",
     "Index.md",
     "4.2/4.2 fundamentals of data structures.md",
