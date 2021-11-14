@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "4.2/4.2.5.1 Trees.md",
+            "file": "4.2.6.1 Hash tables.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4.2/4.2.5.1 Trees.md",
+                "file": "4.2.6.1 Hash tables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "373050042453bdc7",
   "lastOpenFiles": [
+    "4.2.6.1 Hash tables.md",
     "4.2/4.2.5.1 Trees.md",
+    "Index.md",
+    "4.2/4.2 fundamentals of data structures.md",
     "Images/Pasted image 20211025231106.png",
     "Images/Pasted image 20211026001456.png",
     "Images/Pasted image 20211113173441.png",
     "Images/Pasted image 20211113190037.png",
     "Images/Pasted image 20211113191034.png",
-    "Images/Pasted image 20211113191300.png",
-    "4.2/4.2 fundamentals of data structures.md",
-    "4.2/4.2.4.1 Graphs.md",
-    "4.2/definitions/Internet.md"
+    "Images/Pasted image 20211113191300.png"
   ]
 }
