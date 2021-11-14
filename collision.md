@@ -10,4 +10,4 @@ In order to get around the collision, a [[rehashing ]] algorithm is carried out.
 
 ![[Pasted image 20211114142940.png]]
 
-When The Shard is retrieved from the hash table, the hash is calculated as 1, so the value in position 1 is queried. The value in position 1 is not the requested value, and so the next position is queried. this continues until the desired valu
+When The Shard is retrieved from the hash table, the hash is calculated as 1, so the value in position 1 is queried. The value in position 1 is not the requested value, and so the next position is queried. this continues until the desired value is found.
