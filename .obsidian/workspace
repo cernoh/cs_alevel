@@ -7,10 +7,9 @@
         "id": "373050042453bdc7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "4.2/4.2 fundamentals of data structures.md",
-            "mode": "source"
+            "file": "Images/Pasted image 20211114144311.png"
           }
         }
       }
@@ -48,8 +47,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4.2/4.2 fundamentals of data structures.md",
+                "file": "Images/Pasted image 20211114144311.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +96,15 @@
   },
   "active": "373050042453bdc7",
   "lastOpenFiles": [
-    "4.2/4.2 fundamentals of data structures.md",
+    "Images/Pasted image 20211114144311.png",
     "4.2.8.1 Vectors.md",
+    "collision.md",
+    "4.2/4.2 fundamentals of data structures.md",
     "4.2.7.1 Dictionaries.md",
     "4.2/4.2.1.1 Data structures.md",
     "4.2/4.2.1.4 Abstract data types (data structures).md",
-    "collision.md",
     "4.22.7.1 Dictionaries.md",
     "Index.md",
-    "4.2/definitions/rehashing.md",
-    "4.2/4.2.6.1 Hash tables.md"
+    "4.2/definitions/rehashing.md"
   ]
 }

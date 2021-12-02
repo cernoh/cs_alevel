@@ -4,5 +4,6 @@
   "spellcheck": true,
   "spellcheckDictionary": [
     "undirected"
-  ]
+  ],
+  "attachmentFolderPath": "Images"
 }
