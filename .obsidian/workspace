@@ -7,9 +7,10 @@
         "id": "373050042453bdc7",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Images/Pasted image 20211114144311.png"
+            "file": "4.7.1 Internal hardware components of a computer.md",
+            "mode": "source"
           }
         }
       }
@@ -67,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Pasted image 20211114144311.png",
+                "file": "4.7.1 Internal hardware components of a computer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +97,15 @@
   },
   "active": "373050042453bdc7",
   "lastOpenFiles": [
+    "4.7.1 Internal hardware components of a computer.md",
+    "ROM.md",
+    "RAM.md",
+    "4.7/4.7 fundementals of computer organisation.md",
     "Images/Pasted image 20211114144311.png",
     "4.2.8.1 Vectors.md",
     "collision.md",
     "4.2/4.2 fundamentals of data structures.md",
     "4.2.7.1 Dictionaries.md",
-    "4.2/4.2.1.1 Data structures.md",
-    "4.2/4.2.1.4 Abstract data types (data structures).md",
-    "4.22.7.1 Dictionaries.md",
-    "Index.md",
-    "4.2/definitions/rehashing.md"
+    "4.2/4.2.1.1 Data structures.md"
   ]
 }
