@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "4.7.1 Internal hardware components of a computer.md",
+            "file": "4.2.7.1 Dictionaries.md",
             "mode": "source"
           }
         }
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4.7.1 Internal hardware components of a computer.md",
+                "file": "4.2.7.1 Dictionaries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +97,15 @@
   },
   "active": "373050042453bdc7",
   "lastOpenFiles": [
-    "4.7.1 Internal hardware components of a computer.md",
-    "ROM.md",
-    "RAM.md",
-    "4.7/4.7 fundementals of computer organisation.md",
-    "Images/Pasted image 20211114144311.png",
-    "4.2.8.1 Vectors.md",
-    "collision.md",
-    "4.2/4.2 fundamentals of data structures.md",
     "4.2.7.1 Dictionaries.md",
-    "4.2/4.2.1.1 Data structures.md"
+    "collision.md",
+    "Index.md",
+    "RAM.md",
+    "README.md",
+    "ROM.md",
+    "4.7.1 Internal hardware components of a computer.md",
+    "4.2.8.1 Vectors.md",
+    "4.7/4.7 fundementals of computer organisation.md",
+    "Images/Pasted image 20211114144311.png"
   ]
 }
