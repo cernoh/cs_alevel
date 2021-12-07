@@ -13,3 +13,9 @@ Can start at any node. Starting at F
 
 F is a new node, so is added to the result and to the stack.
 
+![[Pasted image 20211207185442.png]]
+**Result
+
+next nodes adjacent to F are observed, B & G . B is higher alphabetically so B is discovered first
+
+![[Pasted image 20211207185700.png]]
