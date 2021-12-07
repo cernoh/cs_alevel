@@ -78,3 +78,28 @@ H is only undiscovered node adjacent to G
 
 ![[Pasted image 20211207192653.png]]
 **Result : F B A D C E G H**
+
+H has no adjacent modes so its completely explored.
+Now graph is explored, and each one is popped off
+
+![[Pasted image 20211207192933.png]]
+**Result : F B A D C E G H**
+
+## example 2 - not binary tree
+
+![[Pasted image 20211207193011.png]]
+
+Any node can be chosen to traverse from. 
+![[Pasted image 20211207193030.png]]
+
+Smallest node adjacent is B 
+![[Pasted image 20211207193045.png]]
+
+Smallest node adjacent is C 
+![[Pasted image 20211207193116.png]]
+
+Smallest node adjacent is F
+![[Pasted image 20211207193149.png]]
+
+Smallest node adjacent is E
+![[Pasted image 20211207193213.png]]
