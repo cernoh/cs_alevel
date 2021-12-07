@@ -103,3 +103,11 @@ Smallest node adjacent is F
 
 Smallest node adjacent is E
 ![[Pasted image 20211207193213.png]]
+
+E is completely explored . Its popped off the stack and the next item on the stack is revisited
+![[Pasted image 20211207193240.png]]
+
+F has one undiscovered neighbor , H
+![[Pasted image 20211207193306.png]]
+
+smallest node adjacent is G
