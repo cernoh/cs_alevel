@@ -1,6 +1,6 @@
 # Variable declaration
 
-Creating a [[variable]] for the first time.
+Creating a [[Variable]] for the first time.
 When you give it its name and data type.
 
 ### examples:

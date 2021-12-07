@@ -2,7 +2,7 @@
  
 [[4.1 fundementals of programming]]
 [[4.2 fundamentals of data structures]]
-[[ 4.3 fundementals of algorithms]]
+[[ 4.3.1 Graph Traversal]]
 [[4.4 theory of computation]]
 [[4.5 fundementals of data representation]]
 [[ 4.6 fundementals of computer systems]]

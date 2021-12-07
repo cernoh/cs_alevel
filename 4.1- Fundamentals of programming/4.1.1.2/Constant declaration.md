@@ -1,5 +1,5 @@
 # Constant declaratoin
-Same as [[Variable declaration]], but with a [[constant]]
+Same as [[Variable declaration]], but with a [[Constant]]
 
 
 ### example:

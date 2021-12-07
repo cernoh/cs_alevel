@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "4.2.7.1 Dictionaries.md",
+            "file": "4.3- Fundamentals of Algoirthms/4.3.1 Graph Traversal.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "complex rel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4.2.7.1 Dictionaries.md",
+                "file": "4.3- Fundamentals of Algoirthms/4.3.1 Graph Traversal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "373050042453bdc7",
   "lastOpenFiles": [
-    "4.2.7.1 Dictionaries.md",
-    "collision.md",
-    "Index.md",
-    "RAM.md",
+    "4.3- Fundamentals of Algoirthms/4.3.1 Graph Traversal.md",
+    "4.2- Fundamentals of Data Structures/4.2.4.1 Graphs.md",
+    "4.3- Fundamentals of Algoirthms/4.3 Fundamentals of Algorithms.md",
+    "4.2- Fundamentals of Data Structures/4.2 fundamentals of data structures.md",
+    "4.2- Fundamentals of Data Structures/4.2.8.1 Vectors.md",
+    "4.2- Fundamentals of Data Structures/definitions/RAM.md",
+    "4.2- Fundamentals of Data Structures/definitions/ROM.md",
     "README.md",
-    "ROM.md",
-    "4.7.1 Internal hardware components of a computer.md",
-    "4.2.8.1 Vectors.md",
-    "4.7/4.7 fundementals of computer organisation.md",
-    "Images/Pasted image 20211114144311.png"
+    "4.2- Fundamentals of Data Structures/4.2.7.1 Dictionaries.md",
+    "4.2- Fundamentals of Data Structures/definitions/collision.md"
   ]
 }
