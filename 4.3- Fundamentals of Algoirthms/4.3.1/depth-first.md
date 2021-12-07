@@ -57,6 +57,24 @@ D is adjacent to E
 E is now completely explored, so next item on stack is visited.
 
 ![[Pasted image 20211207192052.png]]
-**Result : F B A D C E *
+**Result : F B A D C E **
 
 D is completely explored, so its popped off and B is revisited
+
+![[Pasted image 20211207192252.png]]
+**Result : F B A D C E **
+
+B is completely explored. B is popped off and F is revisited.
+
+![[Pasted image 20211207192423.png]]
+**Result : F B A D C E **
+
+F has an adjacent undiscovered node. G is discovered and added to stack.
+
+![[Pasted image 20211207192542.png]]
+**Result  : F B A D C E G **
+
+H is only undiscovered node adjacent to G 
+
+![[Pasted image 20211207192653.png]]
+**Result : F B A D C E G H**
