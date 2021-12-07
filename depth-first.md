@@ -29,3 +29,26 @@ A is bigger so its selected instead of D
 **Result : F B A **
 
 There are no undiscovered nodes adjacent to A.  Therefore A is popped off the stack and labeled completely explored. Next item is looked at- B.
+
+![[Pasted image 20211207191218.png]]
+
+**Result : F B A **
+
+![[Pasted image 20211207191255.png]]
+
+.**Result : F B A **
+
+B has adjacent undiscovered node.
+
+![[Pasted image 20211207191403.png]]
+
+**Result : F B A D **
+
+D has two adjacent modes, C and E , and C is less than so discovered first.
+
+![[Pasted image 20211207191549.png]]
+
+**Result : F B A D C**
+
+C is completely explored so is popped off and D is revisited.
+
