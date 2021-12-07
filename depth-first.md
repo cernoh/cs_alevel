@@ -20,4 +20,4 @@ next nodes adjacent to F are observed, B & G . B is higher alphabetically so B i
 
 ![[Pasted image 20211207185700.png]]
 
-**Result: FB**
+**Result: F B**
