@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "depth-first.md",
+            "file": "4.3- Fundamentals of Algoirthms/4.3.1/depth-first.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "depth-first.md",
+                "file": "4.3- Fundamentals of Algoirthms/4.3.1/depth-first.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,8 +97,8 @@
   },
   "active": "373050042453bdc7",
   "lastOpenFiles": [
-    "depth-first.md",
-    "4.3- Fundamentals of Algoirthms/4.3.1 Graph Traversal.md",
+    "4.3- Fundamentals of Algoirthms/4.3.1/depth-first.md",
+    "4.3- Fundamentals of Algoirthms/4.3.1/4.3.1 Graph Traversal.md",
     "4.2- Fundamentals of Data Structures/4.2.4.1 Graphs.md",
     "4.3- Fundamentals of Algoirthms/4.3 Fundamentals of Algorithms.md",
     "4.2- Fundamentals of Data Structures/4.2 fundamentals of data structures.md",
