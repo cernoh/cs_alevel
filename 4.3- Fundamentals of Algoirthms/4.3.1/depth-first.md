@@ -108,6 +108,10 @@ E is completely explored . Its popped off the stack and the next item on the sta
 ![[Pasted image 20211207193240.png]]
 
 F has one undiscovered neighbor , H
-![[Pasted image 20211207193306.png]]
+![[Pasted image 20211209210157.png]]
 
 smallest node adjacent is G
+![[Pasted image 20211209210207.png]]
+
+G has no adjacent modes so G is completely explored and popped off the stack.
+next item is revisited
