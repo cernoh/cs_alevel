@@ -115,3 +115,27 @@ smallest node adjacent is G
 
 G has no adjacent modes so G is completely explored and popped off the stack.
 next item is revisited
+![[Pasted image 20211209210637.png]]
+
+H is completely explored.
+![[Pasted image 20211209210649.png]]
+
+F is completely explored.
+![[Pasted image 20211209210700.png]]
+
+C is completely explored.
+![[Pasted image 20211209210710.png]]
+
+B has an undiscovered node, D. Its discovered and added to the result.
+![[Pasted image 20211209210738.png]]
+
+D has no undiscovered neighbours so its popped from stack, and next item is revisited
+![[Pasted image 20211209210809.png]]
+
+B is completely explored.
+![[Pasted image 20211209210821.png]]
+
+A is completely explored.
+![[Pasted image 20211209210832.png]]
+
+Stack is empty so [[algorithm]] terminates and the result is printed.
