@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "4.6- Fundamentals of computer systems/4.6.2/assembly language.md",
+            "file": "4.5- Fundamentals of data representation/4.5.1 Number systems.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4.6- Fundamentals of computer systems/4.6.2/assembly language.md",
+                "file": "4.5- Fundamentals of data representation/4.5.1 Number systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "373050042453bdc7",
   "lastOpenFiles": [
+    "4.5- Fundamentals of data representation/4.5.1 Number systems.md",
+    "4.5- Fundamentals of data representation/4.5 fundementals of data representation.md",
+    "4.4- Theory of Computation/4.4 theory of computation.md",
+    "4.3- Fundamentals of Algoirthms/algorithm.md",
+    "4.3- Fundamentals of Algoirthms/breadth-first.md",
+    "README.md",
     "4.6- Fundamentals of computer systems/4.6.2/assembly language.md",
     "4.6- Fundamentals of computer systems/4.6.2/high level language.md",
     "4.6- Fundamentals of computer systems/4.6.2/low level languages.md",
-    "4.6- Fundamentals of computer systems/4.6.2/machine code.md",
-    "4.6- Fundamentals of computer systems/4.6 fundementals of computer systems.md",
-    "4.6- Fundamentals of computer systems/indentation.md",
-    "4.5- Fundamentals of data representation/4.5 fundementals of data representation.md",
-    "breadth-first.md",
-    "4.2- Fundamentals of Data Structures/4.2.4.1 Graphs.md",
-    "4.3- Fundamentals of Algoirthms/4.3.1/4.3.1 Graph Traversal.md"
+    "4.6- Fundamentals of computer systems/4.6.2/machine code.md"
   ]
 }
