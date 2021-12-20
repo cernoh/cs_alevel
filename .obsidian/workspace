@@ -13,17 +13,6 @@
             "mode": "source"
           }
         }
-      },
-      {
-        "id": "26b313b09886c4db",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "4.5- Fundamentals of data representation/4.5.3 Units of Information.md",
-            "mode": "source"
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4.5- Fundamentals of data representation/4.5.3 Units of Information.md",
+                "file": "4.5- Fundamentals of data representation/4.5 fundementals of data representation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,10 +95,10 @@
     "width": 281.5,
     "collapsed": true
   },
-  "active": "26b313b09886c4db",
+  "active": "91d65375016c5bee",
   "lastOpenFiles": [
-    "4.5- Fundamentals of data representation/4.5.3 Units of Information.md",
     "4.5- Fundamentals of data representation/4.5 fundementals of data representation.md",
+    "4.5- Fundamentals of data representation/4.5.3 Units of Information.md",
     "4.5- Fundamentals of data representation/4.5.4 Binary Number System.md",
     "4.5- Fundamentals of data representation/4.5.2 Number Bases.md",
     "4.5- Fundamentals of data representation/4.5.1 Number systems.md",
