@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "4.5- Fundamentals of data representation/4.5.3 Units of Information.md",
+            "file": "Byte.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4.5- Fundamentals of data representation/4.5.3 Units of Information.md",
+                "file": "Byte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,7 @@
   },
   "active": "91d65375016c5bee",
   "lastOpenFiles": [
+    "Byte.md",
     "4.5- Fundamentals of data representation/4.5.3 Units of Information.md",
     "Bit.md",
     "4.5- Fundamentals of data representation/4.5.4 Binary Number System.md",
@@ -105,7 +106,6 @@
     "4.5- Fundamentals of data representation/4.5.2 Number Bases.md",
     "4.5- Fundamentals of data representation/4.5 fundementals of data representation.md",
     "README.md",
-    "set.md",
-    "4.4- Theory of Computation/4.4 theory of computation.md"
+    "set.md"
   ]
 }
