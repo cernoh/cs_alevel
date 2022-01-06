@@ -5,5 +5,7 @@
   "spellcheckDictionary": [
     "undirected"
   ],
-  "attachmentFolderPath": "Images"
+  "attachmentFolderPath": "Images",
+  "legacyEditor": false,
+  "livePreview": true
 }
