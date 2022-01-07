@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "4.5- Fundamentals of data representation/4.5 fundementals of data representation.md",
-            "mode": "source",
+            "file": "4.2- Fundamentals of Data Structures/4.2 fundamentals of data structures.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4.5- Fundamentals of data representation/4.5 fundementals of data representation.md",
+                "file": "4.2- Fundamentals of Data Structures/4.2 fundamentals of data structures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "91d65375016c5bee",
   "lastOpenFiles": [
+    "4.2- Fundamentals of Data Structures/4.2 fundamentals of data structures.md",
+    "4.2- Fundamentals of Data Structures/4.2.8.1 Vectors.md",
+    "4.1- Fundamentals of programming/4.1 fundementals of programming.md",
+    "4.1- Fundamentals of programming/4.1.1.1/4.1.1.1 Data types.md",
     "4.5- Fundamentals of data representation/4.5 fundementals of data representation.md",
     "4.5- Fundamentals of data representation/4.5.1 Number systems.md",
     "4.5- Fundamentals of data representation/4.5.2 Number Bases.md",
     "4.5- Fundamentals of data representation/4.5.3 Units of Information.md",
     "4.5- Fundamentals of data representation/4.5.4 Binary Number System.md",
-    "4.6- Fundamentals of computer systems/4.6.2/assembly language.md",
-    "4.6- Fundamentals of computer systems/4.6.2/high level language.md",
-    "4.6- Fundamentals of computer systems/4.6.2/low level languages.md",
-    "4.6- Fundamentals of computer systems/4.6.2/machine code.md",
-    "4.6- Fundamentals of computer systems/4.6 fundementals of computer systems.md"
+    "4.6- Fundamentals of computer systems/4.6.2/assembly language.md"
   ]
 }
