@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "4.3- Fundamentals of Algoirthms/4.3 Fundamentals of Algorithms.md",
-            "mode": "preview",
+            "file": "4.3- Fundamentals of Algoirthms/4.3.2 Tree Traversal.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4.3- Fundamentals of Algoirthms/4.3 Fundamentals of Algorithms.md",
+                "file": "4.3- Fundamentals of Algoirthms/4.3.2 Tree Traversal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "91d65375016c5bee",
   "lastOpenFiles": [
+    "4.3- Fundamentals of Algoirthms/4.3.2 Tree Traversal.md",
     "4.3- Fundamentals of Algoirthms/4.3 Fundamentals of Algorithms.md",
+    "4.3- Fundamentals of Algoirthms/4.3.1/breadth-first.md",
+    "4.3- Fundamentals of Algoirthms/algorithm.md",
+    "4.3- Fundamentals of Algoirthms/4.3.1/depth-first.md",
+    "4.3- Fundamentals of Algoirthms/4.3.1/4.3.1 Graph Traversal.md",
     "4.4- Theory of Computation/4.4 theory of computation.md",
     "4.5- Fundamentals of data representation/4.5 fundementals of data representation.md",
     "4.6- Fundamentals of computer systems/4.6 fundementals of computer systems.md",
-    "4.2- Fundamentals of Data Structures/4.2 fundamentals of data structures.md",
-    "4.2- Fundamentals of Data Structures/4.2.1.1 Data structures.md",
-    "4.2- Fundamentals of Data Structures/4.2.8.1 Vectors.md",
-    "4.1- Fundamentals of programming/4.1 fundementals of programming.md",
-    "4.1- Fundamentals of programming/4.1.1.7/4.1.1.7 String-Handling operations.md",
-    "4.8- Consequences of Uses of computing/4.8 consequences of uses of computing.md"
+    "4.2- Fundamentals of Data Structures/4.2 fundamentals of data structures.md"
   ]
 }
