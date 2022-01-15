@@ -7,5 +7,6 @@
   ],
   "attachmentFolderPath": "Images",
   "legacyEditor": false,
-  "livePreview": true
+  "livePreview": true,
+  "newFileLocation": "current"
 }
