@@ -8,5 +8,10 @@
   "attachmentFolderPath": "Images",
   "legacyEditor": false,
   "livePreview": true,
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "spellcheckLanguages": [
+    "fr",
+    "en-GB",
+    "en-GB-oxendict"
+  ]
 }
