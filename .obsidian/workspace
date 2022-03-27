@@ -14,6 +14,18 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "8149bd42cc6691ba",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "4.3- Fundamentals of Algoirthms/Dijkstra's algorithm.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -69,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4.3- Fundamentals of Algoirthms/4.3.6 Optimisation Algorithm.md",
+                "file": "4.3- Fundamentals of Algoirthms/Dijkstra's algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,8 +99,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cdd0f9799b34d00e",
+  "active": "8149bd42cc6691ba",
   "lastOpenFiles": [
+    "4.3- Fundamentals of Algoirthms/Dijkstra's algorithm.md",
     "4.3- Fundamentals of Algoirthms/4.3.6 Optimisation Algorithm.md",
     "4.3- Fundamentals of Algoirthms/4.3 Fundamentals of Algorithms.md",
     "4.3- Fundamentals of Algoirthms/Definitions/algorithm.md",
@@ -97,7 +110,6 @@
     "4.3- Fundamentals of Algoirthms/4.3.5 Sorting Algorithms.md",
     "4.1- Fundamentals of programming/4.1.1.1/arrays.md",
     "4.3- Fundamentals of Algoirthms/4.3.4 Searching Algorithms.md",
-    "4.2- Fundamentals of Data Structures/4.2.5.1 Trees.md",
-    "4.3- Fundamentals of Algoirthms/Definitions/binary search tree.md"
+    "4.2- Fundamentals of Data Structures/4.2.5.1 Trees.md"
   ]
 }
