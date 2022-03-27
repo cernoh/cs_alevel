@@ -7,4 +7,7 @@ $$\LARGE 3+5$$
 $$\LARGE 9+6/3$$
 can cause confusion , so can separate using brackets or BODMAS
 
-### bodmas
+### BODMAS
+$$\LARGE 9+2 =11$$
+### brackets
+$$\LARGE (9+6)/3 = 5$$
