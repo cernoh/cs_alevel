@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9704d380a5d3159a",
+        "id": "ee580e9079ea936c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "4.3- Fundamentals of Algoirthms/Binary tree search.md",
+            "file": "4.3- Fundamentals of Algoirthms/4.3.5 Sorting Algorithms.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4.3- Fundamentals of Algoirthms/Binary tree search.md",
+                "file": "4.3- Fundamentals of Algoirthms/4.3.5 Sorting Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9704d380a5d3159a",
+  "active": "ee580e9079ea936c",
   "lastOpenFiles": [
-    "4.3- Fundamentals of Algoirthms/Binary tree search.md",
+    "4.3- Fundamentals of Algoirthms/4.3.5 Sorting Algorithms.md",
+    "4.3- Fundamentals of Algoirthms/4.3 Fundamentals of Algorithms.md",
     "4.3- Fundamentals of Algoirthms/4.3.4 Searching Algorithms.md",
+    "4.2- Fundamentals of Data Structures/4.2.5.1 Trees.md",
+    "4.3- Fundamentals of Algoirthms/binary search tree.md",
+    "4.3- Fundamentals of Algoirthms/Binary tree search.md",
+    "4.2- Fundamentals of Data Structures/4.2.4.1 Graphs.md",
     "4.3- Fundamentals of Algoirthms/Binary search.md",
     "4.3- Fundamentals of Algoirthms/linear search.md",
-    "4.3- Fundamentals of Algoirthms/Hash tables.md",
-    "4.3- Fundamentals of Algoirthms/4.3 Fundamentals of Algorithms.md",
-    "4.3- Fundamentals of Algoirthms/4.3.3 Reverse Polish.md",
-    "4.3- Fundamentals of Algoirthms/infix notation.md",
-    "4.3- Fundamentals of Algoirthms/postfix.md",
-    "4.2- Fundamentals of Data Structures/4.2.3.1 Stacks.md"
+    "4.3- Fundamentals of Algoirthms/Hash tables.md"
   ]
 }
