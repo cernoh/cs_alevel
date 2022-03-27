@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "4.3- Fundamentals of Algoirthms/4.3.2 Tree Traversal.md",
+            "file": "4.10- Fundamentals of databases/4.10 fundementals of databases.md",
             "mode": "source",
             "source": false
           }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e14c800469d8f599",
+    "id": "8209ced37daeef83",
     "type": "split",
     "children": [
       {
-        "id": "2938730af1011f55",
+        "id": "61f96ddc92e0374d",
         "type": "tabs",
         "children": [
           {
-            "id": "d60afe017ccc512e",
+            "id": "f9d924b48ec52602",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +35,7 @@
             }
           },
           {
-            "id": "0e149cd5a9e1028c",
+            "id": "ccb4f7ee18ea71f3",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -56,20 +56,20 @@
     "width": 300
   },
   "right": {
-    "id": "f9495abbe927c84b",
+    "id": "b8685fa65f539815",
     "type": "split",
     "children": [
       {
-        "id": "42ee43b5c692d547",
+        "id": "bd007b0399403e29",
         "type": "tabs",
         "children": [
           {
-            "id": "6a48541bb17acd9b",
+            "id": "2edc614efa6d78e7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4.3- Fundamentals of Algoirthms/4.3.2 Tree Traversal.md",
+                "file": "4.10- Fundamentals of databases/4.10 fundementals of databases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -79,24 +79,18 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "ee8724f46f7f04f3",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 281.5,
+    "width": 300,
     "collapsed": true
   },
   "active": "91d65375016c5bee",
   "lastOpenFiles": [
+    "4.10- Fundamentals of databases/4.10 fundementals of databases.md",
+    "4.1- Fundamentals of programming/4.1.1.1/4.1.1.1 Data types.md",
     "4.3- Fundamentals of Algoirthms/4.3.2 Tree Traversal.md",
     "4.3- Fundamentals of Algoirthms/4.3.3 Reverse Polish.md",
     "4.2- Fundamentals of Data Structures/4.2.5.1 Trees.md",
@@ -104,8 +98,6 @@
     "4.3- Fundamentals of Algoirthms/leaf.md",
     "4.3- Fundamentals of Algoirthms/4.3 Fundamentals of Algorithms.md",
     "4.3- Fundamentals of Algoirthms/4.3.1/4.3.1 Graph Traversal.md",
-    "4.3- Fundamentals of Algoirthms/4.3.1/breadth-first.md",
-    "4.2- Fundamentals of Data Structures/4.2 fundamentals of data structures.md",
-    "set.md"
+    "4.3- Fundamentals of Algoirthms/4.3.1/breadth-first.md"
   ]
 }
