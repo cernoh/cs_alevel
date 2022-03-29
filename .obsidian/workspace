@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "4.3- Fundamentals of Algoirthms/Dijkstra's algorithm.md",
-            "mode": "source",
+            "file": "4.2- Fundamentals of Data Structures/4.2.3.1 Stacks.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "stacks",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4.3- Fundamentals of Algoirthms/Dijkstra's algorithm.md",
+                "file": "4.2- Fundamentals of Data Structures/4.2.3.1 Stacks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +90,7 @@
   },
   "active": "5a8b1fee726aab11",
   "lastOpenFiles": [
+    "4.2- Fundamentals of Data Structures/4.2.3.1 Stacks.md",
     "4.3- Fundamentals of Algoirthms/Dijkstra's algorithm.md",
     "4.3- Fundamentals of Algoirthms/4.3.6 Optimisation Algorithm.md",
     "4.5- Fundamentals of data representation/4.5.2 Number Bases.md",
@@ -97,7 +99,6 @@
     "4.5- Fundamentals of data representation/4.5 fundementals of data representation.md",
     "4.1- Fundamentals of programming/4.1.1.1/4.1.1.1 Data types.md",
     "4.3- Fundamentals of Algoirthms/4.3 Fundamentals of Algorithms.md",
-    "4.3- Fundamentals of Algoirthms/Definitions/algorithm.md",
-    "4.3- Fundamentals of Algoirthms/4.3.1 Graph Traversal.md"
+    "4.3- Fundamentals of Algoirthms/Definitions/algorithm.md"
   ]
 }
