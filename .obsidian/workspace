@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "cdd0f9799b34d00e",
+        "id": "5a8b1fee726aab11",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "4.3- Fundamentals of Algoirthms/4.3.6 Optimisation Algorithm.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "8149bd42cc6691ba",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "4.5- Fundamentals of data representation/4.5.2 Number Bases.md",
+            "file": "4.3- Fundamentals of Algoirthms/Dijkstra's algorithm.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4.5- Fundamentals of data representation/4.5.2 Number Bases.md",
+                "file": "4.3- Fundamentals of Algoirthms/Dijkstra's algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +87,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8149bd42cc6691ba",
+  "active": "5a8b1fee726aab11",
   "lastOpenFiles": [
+    "4.3- Fundamentals of Algoirthms/Dijkstra's algorithm.md",
+    "4.3- Fundamentals of Algoirthms/4.3.6 Optimisation Algorithm.md",
     "4.5- Fundamentals of data representation/4.5.2 Number Bases.md",
     "4.5- Fundamentals of data representation/4.5.3 Units of Information.md",
     "4.5- Fundamentals of data representation/4.5.4 Binary Number System.md",
     "4.5- Fundamentals of data representation/4.5 fundementals of data representation.md",
     "4.1- Fundamentals of programming/4.1.1.1/4.1.1.1 Data types.md",
-    "4.3- Fundamentals of Algoirthms/Dijkstra's algorithm.md",
-    "4.3- Fundamentals of Algoirthms/4.3.6 Optimisation Algorithm.md",
     "4.3- Fundamentals of Algoirthms/4.3 Fundamentals of Algorithms.md",
     "4.3- Fundamentals of Algoirthms/Definitions/algorithm.md",
     "4.3- Fundamentals of Algoirthms/4.3.1 Graph Traversal.md"
